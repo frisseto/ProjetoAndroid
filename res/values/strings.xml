@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projeto1</string>
+    <string name="numero1">Digite o primeiro número</string>
+    <string name="numero2">Digite o segundo número</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="resultado">Resultado Final</string>
+    <string name="resultado_final"></string>
+    <string name="nome_completo">Nome: Flavia Risseto</string>
+    <string name="ra_aluno">RA: 20629257</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
